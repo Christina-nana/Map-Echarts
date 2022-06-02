@@ -1,2 +1,24 @@
-# mapEchartRepository
-使用echarts构建可视化地图组件，实现地图下转、地图轮播播放，地图上叠加柱状图等功能。应用于vue项目组件。持续更新优化...
+# map
+
+## Project setup
+```
+pnpm install
+```
+
+### Compiles and hot-reloads for development
+```
+pnpm run serve
+```
+
+### Compiles and minifies for production
+```
+pnpm run build
+```
+
+### Lints and fixes files
+```
+pnpm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="8px" viewBox="0 0 20 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>地图信息-尖</title>
+    <g id="统计分析" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="耕地资源-省级" transform="translate(-522.000000, -526.000000)">
+            <g id="Map-地图/行政区/标签_红色备份-2" transform="translate(502.000000, 452.000000)">
+                <g id="地图信息-尖" transform="translate(20.000000, 74.000000)">
+                    <ellipse id="椭圆形" fill-opacity="0.4" fill="#7C7C7C" cx="10" cy="6" rx="10" ry="2"></ellipse>
+                    <path d="M4,0 L8.58578644,4.58578644 C9.36683502,5.36683502 10.633165,5.36683502 11.4142136,4.58578644 L16,0 L16,0 L4,0 Z" id="路径-42" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
